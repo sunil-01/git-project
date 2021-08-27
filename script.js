@@ -20,7 +20,7 @@ for(i of arguments){  // argument array ke saare value extract kar lega
         filenames.push(i);
     }
 }
-// console.log(content)
+
 let filedata = undefined;
     
 for(let file of filenames){
