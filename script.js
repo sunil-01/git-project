@@ -14,7 +14,7 @@ for(i of arguments){  // argument array ke saare value extract kar lega
         specialcharacter.push(i.slice(1)); // yaha pe % ke baad jo bhi likha hoga woh specialcharacter wlae array me push ho jaega hmne slice isliye kya ki hame % ke baad wale character mile jisse hame remove karna hai
       }
     else if(i[0]=="+"){
-        content.push(i.slice(1)); // saara content push ho jata hai.
+        content.push(i.slice(1)); // saara content push ho jata hai
       }
     else{
         filenames.push(i);
