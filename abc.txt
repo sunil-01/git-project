@@ -1,9 +1,0 @@
-second file
-tis ont
-hello everyone
-
-new content added
-
-git branch -M main // yeh bata hai ki hum konse branc me hai,kaam kar rhe hai,and pushkarne ke baad konse branch me changes milenge
-git remote add origin https://github.com/sunil-01/git-project.git // iss cmmd se local repo and master repo(github)se link hota hai
-git push -u origin main
