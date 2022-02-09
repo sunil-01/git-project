@@ -2,8 +2,8 @@ Usage -: Node.js,JavaScript,Asynchoronus function,puppeteer.
 
 worked with -: Asynchronous functions,promises,puppeteer,async-await,set-timeout.css-selectors.
 
-This project is an automation project that directly creates challenges when the link and total number of challemges count provided by user.
-But in the hacker-rank website we can only make atmost 3 challenges. 
+This project is an automation project that directly creates challenges and adds moderators for those challenges so the loop will run at max 5 times
+But in the hacker-rank website we can only make atmost 5 challenges. 
 
 With this project i have a good knowledge on async-await,promises,Async programmes.
 
